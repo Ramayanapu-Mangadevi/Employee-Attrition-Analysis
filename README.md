@@ -6,6 +6,7 @@ Employee attrition is a critical issue for organizations. This project analyzes 
 The analysis helps in identifying trends, predicting attrition, and making data-driven HR decisions.
 
 **Project Objectives**
+
 1️⃣ Analyze Employee Attrition Trends
 Identify key factors contributing to employee turnover.
 Understand attrition rates by department, job role, and demographics.
@@ -29,6 +30,7 @@ Test hypotheses to determine key drivers of employee turnover.
 6️⃣ Support Data-Driven Decision Making
 Help teams to reduce attrition through insights-based strategies.
 Provide recommendations to improve employee satisfaction and retention.
+
 ## **🛠 Tools & Technologies Used ** 
 ✔ **SQL** – Data cleaning, transformation, and storage  
 ✔ **Python (Pandas, Seaborn, Matplotlib)** – Data analysis & visualization  
@@ -36,11 +38,11 @@ Provide recommendations to improve employee satisfaction and retention.
 ✔ **Power BI** – Interactive attrition analysis dashboard 
 ## 📂 **Project Structure  **
 
-- 📜 `Cleaning the data.sql` – SQL script for data cleaning  
 - 📜 `Creation Of table.sql` – SQL script for table creation  
+- 📜 `Cleaning the data.sql` – SQL script for data cleaning
+- 📜 `Python analysis.ipynb` – Python script for analysis & visualizations
 - 📊 `Employee Dashboard.xlsm` – Excel-based employee data dashboard  
 - 📊 `Employee Attrition Dashboard.pbix` – Power BI dashboard  
-- 📜 `Python analysis.ipynb` – Python script for analysis & visualizations
 ## 📊 Key Insights  
 🔹 **Attrition rate by department & job roles**  
 🔹 **Impact of work-life balance & job satisfaction**  
