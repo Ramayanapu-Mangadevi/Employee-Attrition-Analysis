@@ -33,12 +33,12 @@ Test hypotheses to determine key drivers of employee turnover.
 Help teams to reduce attrition through insights-based strategies.
 Provide recommendations to improve employee satisfaction and retention.
 
-## **🛠 Tools & Technologies Used ** 
+## 🛠 Tools & Technologies Used 
 ✔ **SQL** – Data cleaning, transformation, and storage  
 ✔ **Python (Pandas, Seaborn, Matplotlib)** – Data analysis & visualization  
 ✔ **Excel** – Employee data dashboard  
 ✔ **Power BI** – Interactive attrition analysis dashboard 
-## 📂 **Project Structure  **
+## 📂 Project Structure  
 
 - 📜 `Creation Of table.sql` – SQL script for table creation  
 - 📜 `Cleaning the data.sql` – SQL script for data cleaning
