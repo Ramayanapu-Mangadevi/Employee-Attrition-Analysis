@@ -1,7 +1,9 @@
 # **Employee-Attrition-Analysis**
+
 A comprehensive analysis of employee attrition using SQL, Python, Excel, and Power BI
 
 **Project Overview**
+
 Employee attrition is a critical issue for organizations. This project analyzes a dataset of 10,000 employees to uncover key factors influencing employee turnover.
 The analysis helps in identifying trends, predicting attrition, and making data-driven HR decisions.
 
